@@ -1,4 +1,4 @@
-package AvansBezoeker;
+package avansbezoeker;
 
 public class Teacher extends AvansVisitor {
 

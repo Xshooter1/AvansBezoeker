@@ -1,4 +1,4 @@
-package AvansBezoeker;
+package avansbezoeker;
 
 public abstract class AvansVisitor {
 

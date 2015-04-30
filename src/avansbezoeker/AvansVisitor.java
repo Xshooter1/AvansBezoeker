@@ -11,7 +11,7 @@ public abstract class AvansVisitor {
         }
 	public void print() {
 		// TODO - implement AvansVisitor.print
-		throw new UnsupportedOperationException();
+		System.out.println("Naam: " + name + "\nHoofd activiteit: " + mainActivity);
 	}
 
 }

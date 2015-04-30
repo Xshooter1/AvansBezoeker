@@ -9,6 +9,7 @@ public abstract class AvansVisitor {
             this.name = name;
             this.mainActivity = mainActivity;
         }
+        
 	public void print() {
 		// TODO - implement AvansVisitor.print
 		System.out.println("Naam: " + name + "\nHoofd activiteit: " + mainActivity);
